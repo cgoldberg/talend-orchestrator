@@ -1,7 +1,10 @@
 import logging
 
+import azure.functions as func
+
 from talend_client import TalendClient
 
+app = func.FunctionApp()
 client = TalendClient()
 
 

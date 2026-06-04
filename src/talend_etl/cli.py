@@ -7,7 +7,6 @@ from dotenv import load_dotenv
 
 from talend_etl.talend_client import TalendClient
 
-
 logging.basicConfig(
     level=logging.INFO,
     format="%(asctime)s [%(levelname)s] %(message)s",
