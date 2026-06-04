@@ -5,6 +5,33 @@ using Azure Functions and a Python CLI. It provides scheduled execution via
 Azure Functions timer triggers, manual execution via a CLI tool, and a
 reusable Python client for interacting with the Talend API.
 
+- Copyright (c) 2026 [Corey Goldberg](https://github.com/cgoldberg)
+
+<table>
+  <tr>
+    <td>Development</td>
+    <td>
+      <a href="https://github.com/cgoldberg/talend-orchestrator">
+        GitHub
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>License</td>
+    <td>
+      <a href="https://raw.githubusercontent.com/cgoldberg/talend-orchestrator/refs/heads/master/LICENSE">
+        MIT
+      </a>
+    </td>
+  </tr>
+    <td>Supported Python Versions</td>
+    <td>
+      3.13+
+    </td>
+  </tr>
+</table>
+
+
 ---
 
 ## Features
